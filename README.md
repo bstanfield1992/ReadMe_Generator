@@ -3,6 +3,9 @@
 
 ![Screenshot](.screenshot/readmePrompt.png)
 
+## Video
+https://drive.google.com/file/d/1O4N_a4ptIXKfqxgWYIbhqpa6U9tmTWN6/view
+
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 ## Description
 Generate README files using the command line

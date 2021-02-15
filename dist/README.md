@@ -1,9 +1,9 @@
 
-<h1 align="center">ReadMe Generator 👋</h1>
+<h1 align="center">README Generator</h1>
   
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 ## Description
-undefined
+Generate README files using the command line
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -15,19 +15,19 @@ undefined
 ## Installation
 Inquirer
 ## Usage
-create README files
+Creating README files quick and easy
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 <br />
 This application is covered by the MIT license. 
-## Contributing
-undefined
+## Contributions
+Ben Stanfield
 ## Tests
-
+node index.js
 ## Questions
-Email<br />
+Email for any questions<br />
 <br />
-Find me on GitHub: [undefined](https://github.com/undefined)<br />
+GitHub: [bstanfield1992](https://github.com/bstanfield1992)<br />
 <br />
-Email me with any questions: bstanfield1992@gmail.com<br /><br />
+Email: bstanfield1992@gmail.com<br /><br />
     

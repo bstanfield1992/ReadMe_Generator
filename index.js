@@ -16,7 +16,7 @@ function promptUser(){
     },
     {
         type: "input" ,
-        name: "Description" ,
+        name: "description" ,
         message: "Please write a brief description of your project: "
     },
     {

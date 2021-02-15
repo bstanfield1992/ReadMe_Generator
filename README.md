@@ -1,7 +1,7 @@
 
 <h1 align="center">README Generator</h1>
 
-![Screenshot](.screenshot/readmePrompt.png)
+![Screenshot](./screenshot/readmePrompt.png)
 
 ## Video
 https://drive.google.com/file/d/1O4N_a4ptIXKfqxgWYIbhqpa6U9tmTWN6/view

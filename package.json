@@ -1,0 +1,24 @@
+{
+  "name": "readme_generator",
+  "version": "1.0.0",
+  "description": "Generate ReadMe",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "util": "^0.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bstanfield1992/ReadMe_Generator.git"
+  },
+  "author": "Ben Stanfield",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bstanfield1992/ReadMe_Generator/issues"
+  },
+  "homepage": "https://github.com/bstanfield1992/ReadMe_Generator#readme"
+}

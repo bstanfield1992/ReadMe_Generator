@@ -22,7 +22,7 @@ function promptUser(){
     {
         type: "input" ,
         name: "installation" ,
-        message: "Please describe the installation process if any: "
+        message: "Please list what will need to be installed from npm: "
     },
     {
         type: "input" ,

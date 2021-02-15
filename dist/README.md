@@ -3,7 +3,7 @@
   
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 ## Description
-Generate README files using the command line
+Create README files
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -15,7 +15,7 @@ Generate README files using the command line
 ## Installation
 Inquirer
 ## Usage
-Creating README files quick and easy
+Creating README files quickly and easily using the cmd line
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 <br />
@@ -23,9 +23,9 @@ This application is covered by the MIT license.
 ## Contributions
 Ben Stanfield
 ## Tests
-node index.js
+
 ## Questions
-Email for any questions<br />
+Email me<br />
 <br />
 GitHub: [bstanfield1992](https://github.com/bstanfield1992)<br />
 <br />
